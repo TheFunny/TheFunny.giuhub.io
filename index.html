@@ -217,7 +217,6 @@
             <div class="profile">
                 <div class="name-and-count"> {{name}}  {{value}}人</div>
             </div>
-            {% if name !== '浙江' %}
             <div class="list">
                 {% for p in people %}
                 <div class="pinfo">
@@ -229,7 +228,6 @@
                 </div>
                 {% endfor %}
             </div>
-            {% endif %}
         </div>
         `;
         return nunjucks.renderString(template, {
