@@ -9,6 +9,7 @@ let students = [
    {name: '赵家良', city: '武汉', province: '湖北', school: '武汉理工大学'},
    {name: '吴坤飙', city: '长沙', province: '湖南', school: '湖南大学'},
    {name: '刘坤', city: '南京', province: '江苏', school: '南京工业大学'},
+   {name: '胡浩然', city: '大连', province: '辽林', school: '大连交通大学'},
    {name: '杨瑞熹', city: '青岛', province: '山东', school: '中国石油大学（华东）'},
    {name: '潘奕龙', city: '西安', province: '陕西', school: '长安大学'},
    {name: '阳光', city: '西安', province: '陕西', school: '中国人民解放军火箭军工程大学'},
