@@ -1,1 +1,0 @@
-let students = [replace1];
